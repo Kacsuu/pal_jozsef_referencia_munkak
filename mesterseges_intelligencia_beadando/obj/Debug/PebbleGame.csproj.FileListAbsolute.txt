@@ -1,0 +1,7 @@
+C:\Users\Pál József\Documents\c#codes\PebbleGame\bin\Debug\PebbleGame.exe.config
+C:\Users\Pál József\Documents\c#codes\PebbleGame\bin\Debug\PebbleGame.exe
+C:\Users\Pál József\Documents\c#codes\PebbleGame\bin\Debug\PebbleGame.pdb
+C:\Users\Pál József\Documents\c#codes\PebbleGame\obj\Debug\PebbleGame.csproj.AssemblyReference.cache
+C:\Users\Pál József\Documents\c#codes\PebbleGame\obj\Debug\PebbleGame.csproj.CoreCompileInputs.cache
+C:\Users\Pál József\Documents\c#codes\PebbleGame\obj\Debug\PebbleGame.exe
+C:\Users\Pál József\Documents\c#codes\PebbleGame\obj\Debug\PebbleGame.pdb

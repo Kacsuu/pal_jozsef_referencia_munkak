@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|c:\\users\\p\u00E1l j\u00F3zsef\\documents\\c#codes\\pebblegame\\minimax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|solutionrelative:minimax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\pebblegame\\jatekstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|solutionrelative:pebblegame\\jatekstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\pebblegame\\jatekoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|solutionrelative:pebblegame\\jatekoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53BBA51-B211-4DF7-9ACC-8CA89F4F7919}|..\\teszt\\teszt.csproj|c:\\users\\p\u00E1l j\u00F3zsef\\documents\\c#codes\\teszt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A53BBA51-B211-4DF7-9ACC-8CA89F4F7919}|..\\teszt\\teszt.csproj|c:\\users\\p\u00E1l j\u00F3zsef\\documents\\c#codes\\teszt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\pebblegame\\jatekplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|solutionrelative:pebblegame\\jatekplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\pebblegame\\jatekoperatorgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|solutionrelative:pebblegame\\jatekoperatorgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3543EF7-D440-4291-8C2A-B3FF174C3E77}|PebbleGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniMax.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\MiniMax.cs",
+              "RelativeDocumentMoniker": "MiniMax.cs",
+              "ToolTip": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\MiniMax.cs",
+              "RelativeToolTip": "MiniMax.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T12:05:16.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\teszt\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\teszt\\Form1.cs",
+              "ToolTip": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\teszt\\Form1.cs",
+              "RelativeToolTip": "..\\teszt\\Form1.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:24:09.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\teszt\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\teszt\\Form1.cs",
+              "ToolTip": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\teszt\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\teszt\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:20:36.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JatekOperator.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\PebbleGame\\JatekOperator.cs",
+              "RelativeDocumentMoniker": "PebbleGame\\JatekOperator.cs",
+              "ToolTip": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\PebbleGame\\JatekOperator.cs",
+              "RelativeToolTip": "PebbleGame\\JatekOperator.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA7wDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T13:57:04.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JatekState.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\PebbleGame\\JatekState.cs",
+              "RelativeDocumentMoniker": "PebbleGame\\JatekState.cs",
+              "ToolTip": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\PebbleGame\\JatekState.cs",
+              "RelativeToolTip": "PebbleGame\\JatekState.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwIUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:26:16.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JatekPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\PebbleGame\\JatekPlayer.cs",
+              "RelativeDocumentMoniker": "PebbleGame\\JatekPlayer.cs",
+              "ToolTip": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\PebbleGame\\JatekPlayer.cs",
+              "RelativeToolTip": "PebbleGame\\JatekPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:25:34.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JatekOperatorGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\PebbleGame\\JatekOperatorGenerator.cs",
+              "RelativeDocumentMoniker": "PebbleGame\\JatekOperatorGenerator.cs",
+              "ToolTip": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\PebbleGame\\JatekOperatorGenerator.cs",
+              "RelativeToolTip": "PebbleGame\\JatekOperatorGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:24:45.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\P\u00E1l J\u00F3zsef\\Documents\\c#codes\\PebbleGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:14:50.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
