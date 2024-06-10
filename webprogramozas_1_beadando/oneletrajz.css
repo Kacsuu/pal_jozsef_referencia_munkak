@@ -1,0 +1,72 @@
+body{
+    background-image:url("hatter.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.navbar ul{
+    list-style: none;
+    background: grey;
+    padding: 0;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid black;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar a{
+    text-decoration: none;
+    color:  white;
+    width: 200px;
+    display: block;
+    padding: 25px 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+.navbar a:hover{
+    background: rgb(175, 175, 175);
+    color: black;
+}
+.watermark{
+    color:black;
+    background-color: white;
+    text-align: right;
+    margin-top: 50px;
+}
+img{
+    border: 3px dotted black;
+    margin: 5%;
+
+}
+table{
+    width: 100%;
+}
+#kepcella{
+    text-align: center;
+    width: 20%;
+}
+#gombok{
+    text-align: center;
+    width: 80%;
+}
+#gombok a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+}
+ul{
+    list-style: none;
+}
+table tr{
+    height: 200px;
+}
+h1{
+    text-align: center;
+}

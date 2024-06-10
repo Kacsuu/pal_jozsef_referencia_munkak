@@ -1,0 +1,58 @@
+body{
+    background-image:url("hatter.jpg");
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.navbar ul{
+    list-style: none;
+    background: grey;
+    padding: 0;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid black;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar a{
+    text-decoration: none;
+    color:  white;
+    width: 200px;
+    display: block;
+    padding: 25px 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+.navbar a:hover{
+    background: rgb(175, 175, 175);
+    color: black;
+}
+.watermark{
+    color:black;
+    background-color: white;
+    text-align: right;
+    margin-top: 297px;
+}
+.chess-board { 
+    border-spacing: 0; 
+    border-collapse: collapse; 
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 100px;
+}
+.chess-board th { padding: .5em; }
+.chess-board th + th { border-bottom: 1px solid #000; }
+.chess-board th:first-child,
+.chess-board td:last-child { border-right: 1px solid #000; }
+.chess-board tr:last-child td { border-bottom: 1px solid; }
+.chess-board th:empty { border: none; }
+.chess-board td { width: 1.5em; height: 1.5em; text-align: center; font-size: 32px; line-height: 0;}
+.chess-board .light { background: #eee; }
+.chess-board .dark { background: #aaa; }
