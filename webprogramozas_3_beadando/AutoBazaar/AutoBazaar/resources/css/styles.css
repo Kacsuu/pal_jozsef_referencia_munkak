@@ -1,0 +1,37 @@
+/*<link rel="stylesheet" href="{{ asset('css/styles.css') }}">*/
+
+.navbar {
+    background-color: black !important;
+  }
+
+  .navbar-brand:hover {
+    color: white;
+  }
+
+  .navbar-brand,
+  .navbar-nav .nav-link,
+  .navbar-text {
+    color: white;
+  }
+
+  .navbar-nav .nav-link:hover,
+  .navbar-text:hover {
+    color: #8DB600;
+  }
+
+  .navbar-nav {
+    margin-left: auto;
+    margin-right: 0px;
+  }
+
+  body {
+    background-color: #f5f5f5;
+}
+
+a {
+    color: #8DB600;
+}
+
+a:hover {
+    text-decoration: underline;
+  }

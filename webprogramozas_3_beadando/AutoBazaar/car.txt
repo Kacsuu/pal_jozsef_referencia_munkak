@@ -1,0 +1,9 @@
+jozsef jozsef 36 20 123 4567
+
+andrew andrew 36 30 234 5678
+
+Eger Auto Plaza eger 36 70 345 6789
+
+Luxury Auto House Budapest budapest 36 20 456 7890
+
+Junkyard Maklar maklar 36 30 567 8901

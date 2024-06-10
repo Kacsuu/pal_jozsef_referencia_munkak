@@ -1,0 +1,39 @@
+database plan:
+users:
+    -id primary key auto increment
+    -username
+    -password
+    -phonenumber
+cars:
+    -id primary key auto increment
+    -title
+    -description
+    -price
+    -userid foreign key
+    -brandid foreign key
+    -type
+    -modelid foreign key
+    -conditionid foreign key
+    -year
+    -odometer (km állás)
+    -engine
+    -fuelid
+    -cylindercapacity
+    -horsepower
+    -transmissonid foreign key
+    -picture
+brands:
+    -id primary key auto increment
+    -brand
+models:
+    -id primary key auto increment
+    -model
+conditions:
+    -id primary key auto increment
+    -condition
+transmissions:
+    -id primary key auto increment
+    -transmission (manual/automatic)
+fuels:
+    -id primary key auto increment
+    -fuel (petrol/diesel/hibrid/electric)
