@@ -1,0 +1,18 @@
+body {
+  background-color: #FFF8DE;
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #C1D0B5;
+  margin: 10px;
+  color: rgb(0, 0, 0);
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #99A98F;
+}
