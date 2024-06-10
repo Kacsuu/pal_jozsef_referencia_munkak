@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/phone_background"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="398dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:hint="Felhasználónev" />
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="391dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/username"
+        android:layout_marginTop="50dp"
+        android:hint="Jelszó"
+        android:inputType="textPassword"/>
+
+    <EditText
+        android:id="@+id/repassword"
+        android:layout_width="388dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/password"
+        android:layout_marginTop="50dp"
+        android:hint="Jelszó újra"
+        android:inputType="textPassword"/>
+
+    <Button
+        android:id="@+id/btnsignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/repassword"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#000000"
+        android:text="Regisztráció" />
+
+    <Button
+        android:id="@+id/btnsignin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnsignup"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#000000"
+        android:text="Van fiókod? Jelentkezz be itt!" />
+
+</RelativeLayout>

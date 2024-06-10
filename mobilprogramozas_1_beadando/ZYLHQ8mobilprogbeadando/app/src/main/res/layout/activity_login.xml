@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/phone_background"
+    android:padding="10dp"
+    tools:context=".LoginActivity">
+
+    <EditText
+        android:id="@+id/username1"
+        android:layout_width="393dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="50dp"
+        android:hint="Felhasználónév" />
+
+    <EditText
+        android:id="@+id/password1"
+        android:layout_width="388dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/username1"
+        android:layout_marginTop="50dp"
+        android:hint="Jelszó"
+        android:inputType="textPassword"
+        />
+
+    <Button
+        android:id="@+id/btnsignin1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/password1"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#000000"
+        android:text="Bejelentkezés" />
+
+    <Button
+        android:id="@+id/btnsignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnsignin1"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#000000"
+        android:text="Nincs fiókod? Regisztrálj itt!" />
+
+</RelativeLayout>
